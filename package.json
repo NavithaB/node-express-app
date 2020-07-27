@@ -1,0 +1,12 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "my first node and express app",
+  "main": "server.js",
+  "repository": "https://github.com/NavithaB/node-express-app.git",
+  "author": "Navitha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
